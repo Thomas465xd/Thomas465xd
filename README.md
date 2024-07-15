@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **an online store for an ornamental plant nursery**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **TypeScript**
 - 📫 How to reach me: **tomas.computer.guy@gmail.com**
 - ⚡ Fun fact: **I love to play the piano and I also like math**
 
@@ -16,10 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thomas" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/thomas thecomputerguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thomas thecomputerguy" height="30" width="40" /></a>
 <a href="https://instagram.com/thomasdoesblender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomasdoesblender" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thomas the programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thomas the programmer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ThomasTheProgrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thomas the programmer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
