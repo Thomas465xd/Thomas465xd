@@ -1,5 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/thomas465xd)
 
+https://github-profile-trophy.vercel.app/?username=Thomas465xd
+
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I'm a Passionate Full Stack Web Developer</h3>
 
@@ -9,6 +11,8 @@
 - 🌱 I’m currently learning **React** and **TypeScript**
 - 📫 How to reach me: **tomas.computer.guy@gmail.com**
 - ⚡ Fun fact: **I love to play the piano and I also like math**
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=If+get+on+a+puzzle%2C+I+can't+get+off)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thomas465xd&label=Profile%20views&color=0e75b6&style=flat" alt="thomas465xd"/>
