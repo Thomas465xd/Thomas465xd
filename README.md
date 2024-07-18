@@ -1,9 +1,10 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/thomas465xd)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thomas465xd)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thomas465xd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hi 👋, I'm Thomas</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thomas465xd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="center">I'm a Passionate Full Stack Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
