@@ -48,3 +48,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas465xd&" alt="thomas465xd" />
 </p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Thomas465xd/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Thomas465xd/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
