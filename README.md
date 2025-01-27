@@ -57,9 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thomas465xd&show_icons=true&locale=en" alt="thomas465xd" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas465xd&" alt="thomas465xd" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thomas465xd&theme=radical" alt="GitHub Streak" /></a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Thomas465xd/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Thomas465xd/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
