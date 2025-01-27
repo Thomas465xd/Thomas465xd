@@ -49,13 +49,9 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas465xd&show_icons=true&locale=en&layout=compact" alt="thomas465xd" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas465xd&layout=compact)](https://github.com/Thomas465xd/github-readme-stats)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomas465xd&show_icons=true&locale=en" alt="thomas465xd" />
-</p>
+![Thomas46xd github stats](https://github-readme-stats.vercel.app/api?username=Thomas465xd&show_icons=true&theme=radical)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thomas465xd&theme=radical" alt="GitHub Streak" /></a>
 
