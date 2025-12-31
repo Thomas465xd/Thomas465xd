@@ -1,91 +1,159 @@
+<div align="center">
+
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/thomas465xd)
 
+# Hi 👋, I'm Thomas
 
-<h1 align="center">Hi 👋, I'm Thomas</h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thomas465xd&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thomas465xd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="center">I'm a Passionate Full Stack Web Developer</h3>
+</div>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-### 🚀 About Me
+## 🚀 About Me
+
 I'm a passionate **Full Stack Web Developer** with a love for solving complex problems and creating elegant solutions. When I'm not coding, you'll find me playing piano or diving deep into mathematical concepts.
 
-- 🔭 I’m currently working on **my portfolio website**
-- 🌱 I’m currently learning: **GraphQL**, **Next.js**, and **Docker**
-- 📫 How to reach me: **tomas.computer.guy@gmail.com**
-- ⚡ Fun fact: **I'm a pianist who loves math puzzles!**
+- 🔭 Currently working on **innovative web applications**
+- 🌱 Learning: **GraphQL**, **Next.js**, and **Docker**
+- 🎹 Pianist who loves **math puzzles**
+- 💡 Philosophy: *"Once I get on a puzzle, I can't get off"*
+- 📫 Reach me: **tomas.computer.guy@gmail.com**
 
 <br clear="right"/>
 
-### 🎯 Featured Projects
-
->🚧 Portfolio website coming soon! Stay tuned for exciting projects and case studies.
-
-<br clear="right"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Once+I+get+on+a+puzzle%2C+I+can't+get+off)](https://git.io/typing-svg)
-
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://stackoverflow.com/users/thomas thecomputerguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thomas thecomputerguy" height="30" width="40" /></a>
-  <a href="https://instagram.com/thomasdoesblender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomasdoesblender" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@ThomasTheProgrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thomas the programmer" height="30" width="40" /></a>
-</p>
+## 🌟 Featured Project
 
-##
-
-<h3 align="center">🛠️ Tech Stack:</h3>
-##
-
-<h3 align="center">Frontend Tech Stack:</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-##
-
-<h3 align="center">Backend Tech Stack:</h3>
-<p align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
-
-##
-
-<h3 align="center">Tools:</h3>
-<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-##
-
-<h3 align="center">Currently Learning:</h3>
-<p align="center"><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></p>
-
-##
-
-<h3 align="center">I have a notion of:</h3>
-<p align="center"><a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
-
----
-
-### OS:
-
-| Linux | Windows | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas465xd&layout=compact)](https://github.com/Thomas465xd/github-readme-stats)
-
-![Thomas46xd github stats](https://github-readme-stats.vercel.app/api?username=Thomas465xd&show_icons=true&theme=radical)
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thomas465xd&theme=radical" alt="GitHub Streak" /></a>
-<div/>
+
+### 🎨 [My Portfolio Website](https://your-portfolio-url.com)
+
+<a href="https://thomas-dev-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+<a href="https://github.com/Thomas465xd/Thomas-Dev-Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+
+
+
+A modern, responsive portfolio showcasing my projects and skills. Built using my favorite technologies and also featuring smooth animations, dark mode support, and my own personal taste.
+
+**Tech Stack:** React • TypeScript • Tailwind CSS • Framer Motion • Next.js
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" alt="Version" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thomas465xd&label=Profile%20views&color=0e75b6&style=flat" alt="thomas465xd"/>
-</p>
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Tools & Technologies</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Currently Learning</b></summary>
+<br>
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Thomas465xd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Thomas' GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas465xd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165">
+
+<img src="https://streak-stats.demolab.com?user=Thomas465xd&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Thomas465xd/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Thomas465xd/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/thomas-thecomputerguy)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ThomasTheProgrammer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thomasdoesblender)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomas.computer.guy@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 My Programming Quote
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Once+I+get+on+a+puzzle%2C+I+can't+get+off;Building+elegant+solutions%2C+one+line+at+a+time;Turning+coffee+into+code+since+forever)](https://git.io/typing-svg)
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=thomas465xd&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
+---
+
+ From [Thomas465xd](https://github.com/Thomas465xd) with ❤️
+
+</div>
