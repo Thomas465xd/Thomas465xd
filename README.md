@@ -14,29 +14,27 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer** with a love for solving complex problems and creating elegant solutions. When I'm not coding, you'll find me playing piano or diving deep into mathematical concepts.
+I'm a passionate **Full Stack Web Developer** with a love for solving complex problems and creating elegant solutions. When I'm not coding, you'll find me playing the piano or immersed in the intricacies of the German Language.
 
-- 🔭 Currently working on **innovative web applications**
-- 🌱 Learning: **GraphQL**, **Next.js**, and **Docker**
+- 🔭 Currently working on a **Modern Code Snippets management App**
+- 🌱 Learning: **Clean Architecture**, **Microservices**, and **E2E Testing**
 - 🎹 Pianist who loves **math puzzles**
-- 💡 Philosophy: *"Once I get on a puzzle, I can't get off"*
+- 💡 Philosophy: _"optimization is the best innovation"_
 - 📫 Reach me: **tomas.computer.guy@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🌟 Featured Project
+## 🌟 My Portfolio Project 
 
 <div align="center">
 
 ### 🎨 [My Portfolio Website](https://thomas-dev-portfolio.vercel.app)
 
-<img width="1902" height="789" alt="image" src="https://github.com/user-attachments/assets/0e5faefa-b407-469f-8137-1e0fd37c23d8" />
-
-
 <a href="https://thomas-dev-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  <img width="1902" height="789" alt="image" src="https://github.com/user-attachments/assets/0e5faefa-b407-469f-8137-1e0fd37c23d8" />
 </a>
 <a href="https://github.com/Thomas465xd/Thomas-Dev-Portfolio" target="_blank">
   <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
@@ -44,7 +42,7 @@ I'm a passionate **Full Stack Web Developer** with a love for solving complex pr
 
 
 
-A modern, responsive portfolio showcasing my projects and skills. Built using my favorite technologies and also featuring smooth animations, dark mode support, and my own personal taste.
+My very own Portfolio showcasing my projects and skills. Built using my favorite technologies and also featuring translations to my 3 languages, dark mode support, and my own personal taste.
 
 **Tech Stack:** React • TypeScript • Tailwind CSS • Framer Motion • Next.js
 
@@ -109,7 +107,7 @@ A modern, responsive portfolio showcasing my projects and skills. Built using my
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -119,10 +117,6 @@ A modern, responsive portfolio showcasing my projects and skills. Built using my
 <img src="https://streak-stats.demolab.com?user=Thomas465xd&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
-
----
-
-## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -149,7 +143,7 @@ A modern, responsive portfolio showcasing my projects and skills. Built using my
 
 ### 💭 My Programming Quote
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Once+I+get+on+a+puzzle%2C+I+can't+get+off;Building+elegant+solutions%2C+one+line+at+a+time;Turning+coffee+into+code+since+forever)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Once+I+get+on+a+puzzle%2C+I+can't+get+off;Optimization+is+the+best+innovation)](https://git.io/typing-svg)
 
 ### 👁️ Profile Views
 
